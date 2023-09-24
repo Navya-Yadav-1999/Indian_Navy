@@ -1,0 +1,77 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Indian_Navy
+build_property.RootNamespace = Indian_Navy
+build_property.ProjectDir = C:\Users\nkolli\Downloads\1999\Indian_Navy\Indian_Navy\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\nkolli\Downloads\1999\Indian_Navy\Indian_Navy
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Base_Data/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFzZV9EYXRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Base_Data/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFzZV9EYXRhXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Base_Data/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFzZV9EYXRhXFJlYWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Base_Data/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFzZV9EYXRhXFVwZGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Employee_Data/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVfRGF0YVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Employee_Data/Read.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVfRGF0YVxSZWFkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Employee_Data/Update - Copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVfRGF0YVxVcGRhdGUgLSBDb3B5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Employee_Data/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVfRGF0YVxVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/nkolli/Downloads/1999/Indian_Navy/Indian_Navy/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-u86wkscp0t

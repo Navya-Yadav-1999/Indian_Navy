@@ -1,0 +1,55 @@
+﻿@page
+@using Indian_Navy.Model;
+@model Indian_Navy.Pages.Employee_Data.ReadModel
+@*@if (TempData["Message"] ! = null)
+{
+    <script src = "//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script type = "text/javascript">
+    <h2>@TempData["Message"]</h2>
+}*@
+<div class=" container p-3">
+    <div class=" row pt-4">
+        <div class=" col-6">
+            <h2 class=" text-primary">Total Employee's Data</h2>
+        </div>
+        <div class=" col-6 text-end">
+            <a asp-core =" create" class="btn btn-primary">
+                <i class="bi bi-plus-square"></i> &nbsp;Add Employee TO List
+            </a>
+        </div>
+    </div><br/><br/>
+    <table class=" table table-bordered table-striped "style=width:100%"">
+    <thead>
+        <tr>
+            <th>Employee Id</th>
+            <th>Employee Name</th>
+            <th>Employee Age</th>
+            <th>Native Location</th>
+            <th>Dtae Of Joining</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var obj in Model.Employee_List)
+            {
+                <tr>
+                    <td width="30%">@obj.EmployeeId</td>
+                    <td width="30%">@obj.EmployeeName</td>
+                    <td width="30%">@obj.EmployeeAge</td>
+                    <td width="30%">@obj.NativeLocation</td>
+                    <td width="30%">@obj.DateOfJoining</td>
+                    <td>
+                        <div class="w-75 btn-group" role="group">
+                            <a asp-page="Update" asp-route-id ="@obj.EmployeeId" class="btn btn-primary mx-2">
+                                <i class="bi bi-pencil-square"></i>
+                            </a>
+                            <a asp-page="Delete" asp-route-id="@obj.EmployeeId" class="btn btn-danger mx-2">
+                                <i class="bi bi-trash"></i>
+                            </a>
+                        </div>
+                    </td>
+                </tr>
+            }
+            
+    </tbody>
+</div>
